@@ -1,0 +1,30 @@
+{
+  "name": "blanditiisin",
+  "version": "1.9.0",
+  "description": "A JavaScript library to brighten up your user's site experience with visual effects!",
+  "main": "party.min.js",
+  "files": [
+    "party.min.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MakenzieRunolfsdottir/blanditiisin.git"
+  },
+  "keywords": [
+    "party",
+    "confetti",
+    "corrupti"
+  ],
+  "author": "WinonaHaley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MakenzieRunolfsdottir/blanditiisin.git/issues"
+  },
+  "dependencies": {
+    "quivoluptas": "^1.1.0",
+    "voluptatumveritatis": "^1.0.0"
+  }
+}
